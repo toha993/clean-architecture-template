@@ -1,0 +1,12 @@
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/bin/Debug/net7.0/Clean-Architecture-Template.Contracts.deps.json
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/bin/Debug/net7.0/Clean-Architecture-Template.Contracts.dll
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/bin/Debug/net7.0/Clean-Architecture-Template.Contracts.pdb
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/obj/Debug/net7.0/Clean-Architecture-Template.Contracts.csproj.AssemblyReference.cache
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/obj/Debug/net7.0/Clean-Architecture-Template.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/obj/Debug/net7.0/Clean-Architecture-Template.Contracts.AssemblyInfoInputs.cache
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/obj/Debug/net7.0/Clean-Architecture-Template.Contracts.AssemblyInfo.cs
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/obj/Debug/net7.0/Clean-Architecture-Template.Contracts.csproj.CoreCompileInputs.cache
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/obj/Debug/net7.0/Clean-Architecture-Template.Contracts.dll
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/obj/Debug/net7.0/refint/Clean-Architecture-Template.Contracts.dll
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/obj/Debug/net7.0/Clean-Architecture-Template.Contracts.pdb
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/obj/Debug/net7.0/ref/Clean-Architecture-Template.Contracts.dll

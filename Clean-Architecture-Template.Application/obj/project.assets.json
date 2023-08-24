@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Clean-Architecture-Template.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Clean-Architecture-Template.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clean-Architecture-Template.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clean-Architecture-Template.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Clean-Architecture-Template.Domain/Clean-Architecture-Template.Domain.csproj",
+      "msbuildProject": "../Clean-Architecture-Template.Domain/Clean-Architecture-Template.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Clean-Architecture-Template.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/henrick993/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Application/Clean-Architecture-Template.Application.csproj",
+      "projectName": "Clean-Architecture-Template.Application",
+      "projectPath": "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Application/Clean-Architecture-Template.Application.csproj",
+      "packagesPath": "/Users/henrick993/.nuget/packages/",
+      "outputPath": "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/henrick993/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Domain/Clean-Architecture-Template.Domain.csproj": {
+              "projectPath": "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Domain/Clean-Architecture-Template.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.305/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
