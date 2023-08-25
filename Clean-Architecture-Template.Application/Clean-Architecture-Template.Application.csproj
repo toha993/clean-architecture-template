@@ -11,14 +11,6 @@
     <ProjectReference Include="..\Clean-Architecture-Template.Domain\Clean-Architecture-Template.Domain.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <None Remove="Services\" />
-    <None Remove="Mappers\" />
-    <None Remove="Exceptions\" />
-    <None Remove="Commands\" />
-    <None Remove="Queries\" />
-    <None Remove="EventHandlers\" />
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="Mappers\" />
     <Folder Include="Exceptions\" />
