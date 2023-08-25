@@ -10,6 +10,12 @@
 /Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Application.dll
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Domain.dll
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Infrastructure.dll
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Application.pdb
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Infrastructure.pdb
+/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Domain.pdb
 /Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/obj/Debug/net7.0/Clean-Architecture-Template.Api.csproj.AssemblyReference.cache
 /Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/obj/Debug/net7.0/Clean-Architecture-Template.Api.GeneratedMSBuildEditorConfig.editorconfig
 /Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/obj/Debug/net7.0/Clean-Architecture-Template.Api.AssemblyInfoInputs.cache
@@ -31,11 +37,3 @@
 /Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/obj/Debug/net7.0/Clean-Architecture-Template.Api.pdb
 /Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/obj/Debug/net7.0/Clean-Architecture-Template.Api.genruntimeconfig.cache
 /Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/obj/Debug/net7.0/ref/Clean-Architecture-Template.Api.dll
-/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Application.dll
-/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Contracts.dll
-/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Domain.dll
-/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Infrastructure.dll
-/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Application.pdb
-/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Contracts.pdb
-/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Infrastructure.pdb
-/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/bin/Debug/net7.0/Clean-Architecture-Template.Domain.pdb

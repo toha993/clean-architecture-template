@@ -9,7 +9,6 @@
       "Clean-Architecture-Template.Api/1.0.0": {
         "dependencies": {
           "Clean-Architecture-Template.Application": "1.0.0",
-          "Clean-Architecture-Template.Contracts": "1.0.0",
           "Clean-Architecture-Template.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.8",
           "Swashbuckle.AspNetCore": "6.5.0"
@@ -84,11 +83,6 @@
           "Clean-Architecture-Template.Application.dll": {}
         }
       },
-      "Clean-Architecture-Template.Contracts/1.0.0": {
-        "runtime": {
-          "Clean-Architecture-Template.Contracts.dll": {}
-        }
-      },
       "Clean-Architecture-Template.Domain/1.0.0": {
         "runtime": {
           "Clean-Architecture-Template.Domain.dll": {}
@@ -160,11 +154,6 @@
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
     },
     "Clean-Architecture-Template.Application/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Clean-Architecture-Template.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
