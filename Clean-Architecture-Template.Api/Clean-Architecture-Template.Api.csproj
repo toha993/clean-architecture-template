@@ -18,9 +18,6 @@
     <ProjectReference Include="..\Clean-Architecture-Template.Application\Clean-Architecture-Template.Application.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
-    <ProjectReference Include="..\Clean-Architecture-Template.Contracts\Clean-Architecture-Template.Contracts.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
     <ProjectReference Include="..\Clean-Architecture-Template.Infrastructure\Clean-Architecture-Template.Infrastructure.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>

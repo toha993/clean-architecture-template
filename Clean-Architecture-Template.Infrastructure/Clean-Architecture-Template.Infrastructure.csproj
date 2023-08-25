@@ -10,4 +10,20 @@
   <ItemGroup>
     <ProjectReference Include="..\Clean-Architecture-Template.Application\Clean-Architecture-Template.Application.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="Data\" />
+    <None Remove="Data\Configuration\" />
+    <None Remove="Data\Database\" />
+    <None Remove="Data\MessageBus\" />
+    <None Remove="Data\Logging\" />
+    <None Remove="Identity\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Data\Configuration\" />
+    <Folder Include="Data\Database\" />
+    <Folder Include="Data\MessageBus\" />
+    <Folder Include="Data\Logging\" />
+    <Folder Include="Identity\" />
+  </ItemGroup>
 </Project>

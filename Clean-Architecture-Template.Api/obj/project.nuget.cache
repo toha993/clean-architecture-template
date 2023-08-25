@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "t7Fowut9GoDyFWZLLSL7a7k0jdOOm29S0d0WRh65HnwJseZH2nCdr37ZHr8Lphn+Vbg0rXA3fpr+0sY30vNR8g==",
+  "dgSpecHash": "AiEVWeW7ZKjWiI8pnBRAYPf8503KPLYy5JdYqAdQ0ustUuhrppmX6rxYe9XudoIVatH7HyrhbTWsY8HMJkTn6Q==",
   "success": true,
   "projectFilePath": "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Api/Clean-Architecture-Template.Api.csproj",
   "expectedPackageFiles": [

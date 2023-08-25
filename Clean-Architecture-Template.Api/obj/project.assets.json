@@ -121,16 +121,6 @@
           "bin/placeholder/Clean-Architecture-Template.Application.dll": {}
         }
       },
-      "Clean-Architecture-Template.Contracts/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Clean-Architecture-Template.Contracts.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Clean-Architecture-Template.Contracts.dll": {}
-        }
-      },
       "Clean-Architecture-Template.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -512,11 +502,6 @@
       "path": "../Clean-Architecture-Template.Application/Clean-Architecture-Template.Application.csproj",
       "msbuildProject": "../Clean-Architecture-Template.Application/Clean-Architecture-Template.Application.csproj"
     },
-    "Clean-Architecture-Template.Contracts/1.0.0": {
-      "type": "project",
-      "path": "../Clean-Architecture-Template.Contracts/Clean-Architecture-Template.Contracts.csproj",
-      "msbuildProject": "../Clean-Architecture-Template.Contracts/Clean-Architecture-Template.Contracts.csproj"
-    },
     "Clean-Architecture-Template.Domain/1.0.0": {
       "type": "project",
       "path": "../Clean-Architecture-Template.Domain/Clean-Architecture-Template.Domain.csproj",
@@ -531,7 +516,6 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Clean-Architecture-Template.Application >= 1.0.0",
-      "Clean-Architecture-Template.Contracts >= 1.0.0",
       "Clean-Architecture-Template.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.8",
       "Swashbuckle.AspNetCore >= 6.5.0"
@@ -565,9 +549,6 @@
           "projectReferences": {
             "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Application/Clean-Architecture-Template.Application.csproj": {
               "projectPath": "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Application/Clean-Architecture-Template.Application.csproj"
-            },
-            "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/Clean-Architecture-Template.Contracts.csproj": {
-              "projectPath": "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Contracts/Clean-Architecture-Template.Contracts.csproj"
             },
             "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Infrastructure/Clean-Architecture-Template.Infrastructure.csproj": {
               "projectPath": "/Users/henrick993/Documents/DotNetProjects/Clean-Architecture-Template/Clean-Architecture-Template.Infrastructure/Clean-Architecture-Template.Infrastructure.csproj"
